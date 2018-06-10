@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+	background-image: url("Archives2.jpg");
+	background-size: cover;
+}
+form{
+	margin: 40px 300px 200px 300px;
+	padding: 0px 30px 5px 30px;
+	display: block;
+	border-left: 4px solid rgb(224, 105, 65);
+	border-right: 4px solid rgb(224, 105, 65);
+	background-color: rgba(255, 255, 255, 0.9);
+}
+label{
+	font-size: 24px;
+	font-size-adjust: 0.9;
+	font-weight: bold;
+}
+.formulaire{
+	height: 30em;
+	overflow-y: scroll;
+}
